@@ -32,14 +32,12 @@ within the script(the Summer Fridays birthday cake-limited edition lip
 balm) Future versions will include command-line arguments to 
 specify the product URL and other parameters dynamically.
 
-Additional Setup
 Make sure you have Google Chrome and ChromeDriver installed on your 
 system, as the script uses Selenium with ChromeDriver to interact with web 
 pages. Ensure that the ChromeDriver version corresponds to your Google 
 Chrome version.
 
-Examples
-To monitor a product's availability, simply run the script as mentioned 
+for examples, simply run the script as mentioned 
 above. The script will periodically check the product's availability and 
 print "Product is out of stock" or "Product is available" based on the 
 current status.
