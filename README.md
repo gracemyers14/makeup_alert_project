@@ -10,9 +10,8 @@ useful for tracking high-demand items that sell out quickly.
 
 ## Installation
 
-Before running the project, ensure you have Python installed on your 
-system. This project was developed using Python 3.9. Follow these steps to 
-install the necessary dependencies:
+Before running the project, make sure you have Python installed. This project was developed using Python 3.9. Follow these steps to 
+install the necessary dependencies(all done on terminal on mac):
 
 
 Clone the repository
