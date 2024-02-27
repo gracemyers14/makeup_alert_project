@@ -15,7 +15,7 @@ install the necessary dependencies(all done on terminal on mac):
 
 
 Clone the repository
-git clone https://github.com/yourusername/makeup_alert_project.git
+git clone https://github.com/gracemyers14/makeup_alert_project.git
 
 Navigate to the project directory
 cd makeup_alert_project
