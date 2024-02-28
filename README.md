@@ -25,12 +25,9 @@ pip install -r requirements.txt
 
 To start the product availability monitor, run the selenium_scraper.py 
 script from the command line with the necessary arguments. Here is the 
-basic usage command:python selenium_scraper.py
+basic usage command:python selenium_scraper.py'sephora.url'
 
-Currently, the script is set to monitor a specific product URL hardcoded 
-within the script(the Summer Fridays birthday cake-limited edition lip 
-balm) Future versions will include command-line arguments to 
-specify the product URL and other parameters dynamically.
+
 
 Make sure you have Google Chrome and ChromeDriver installed on your 
 system, as the script uses Selenium with ChromeDriver to interact with web 
